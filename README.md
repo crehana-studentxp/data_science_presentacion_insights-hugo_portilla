@@ -21,15 +21,6 @@
   <p align="center">con Hugo Portilla</h3> 
 </div>
 
-### Tecnologías usadas
-
-El curso, sus ejemplos y proyectos propuestos están desarrollados en python.
-Recomendamos el uso de Visual Studio Code como editor de código.
-
-* [Visual Studio Code](https://code.visualstudio.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- LICENSE -->
 ## Licencia
 
