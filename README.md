@@ -28,15 +28,16 @@ Distribuido bajo la licencia MIT License.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTACT -->
 
 ### Tecnologías usadas
-
+<br>
 El curso, sus ejemplos y proyectos propuestos están desarrollados en Jupyter Notebook y Colab.
 <ul>
   <li><a href="https://jupyter.org"> Jupyter Notebook</li>
   <li><a href="http://colab.research.google.com"> Google Colab</li>
 </ul>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contacto
 
