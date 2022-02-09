@@ -30,7 +30,7 @@ Distribuido bajo la licencia MIT License.
 
 
 ### Tecnologías usadas
-<br>
+<hr>
 El curso, sus ejemplos y proyectos propuestos están desarrollados en Jupyter Notebook y Colab.
 <ul>
   <li><a href="https://jupyter.org"> Jupyter Notebook</li>
