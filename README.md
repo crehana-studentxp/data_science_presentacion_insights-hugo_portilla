@@ -29,6 +29,13 @@ Distribuido bajo la licencia MIT License.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
+
+El curso, sus ejemplos y proyectos propuestos están desarrollados en Jupyter Notebook y Colab.
+<ul>
+  <li><a href="https://jupyter.org"> Jupyter Notebook</li>
+  <li><a href="http://colab.research.google.com"> Google Colab</li>
+</ul>
+
 ## Contacto
 
 ¿Tienes comentarios sobre los archivos del curso? Envíanos un correo a proyectos@crehana.com
